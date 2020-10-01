@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is the first JS project on hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yers11/hexlet-js.git"
+  },
+  "author": "Yersaiyn Amangeldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yers11/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Yers11/hexlet-js#readme"
+}
